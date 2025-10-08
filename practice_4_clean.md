@@ -50,15 +50,25 @@
 | ![3FFD структура](https://github.com/Kashitza/prac/blob/main/prac_4/3ffd_structure.png) | ![3FFD график](https://github.com/Kashitza/prac/blob/main/prac_4/3ffd.png) |
 
 Белок крупнее и преимущественно представлен β-структурами; α-спиралей немного.  
-**HIS**, **CYS**, **GLY**, **ASN** и **ASP** — основные участники формирования β-листов.  
+**ALA**, **LEU**, **VAL**, **THR**  — основные участники формирования β-листов.  
+
+| ALA | LEU | VAL | THR |
+|:----:|:----:|:----:|:----:|
+| ![ALA](https://github.com/Kashitza/prac/blob/main/prac_4/ramachandran_3ffd_ALA.png) | ![LEU](https://github.com/Kashitza/prac/blob/main/prac_4/ramachandran_3ffd_LEU.png) | ![VAL](https://github.com/Kashitza/prac/blob/main/prac_4/ramachandran_3ffd_VAL.png) | ![THR](https://github.com/Kashitza/prac/blob/main/prac_4/ramachandran_3ffd_THR.png) |
+
+
 **SER** и **GLY** участвуют в обоих типах структур.
 
-| GLY | ASP | ASN |
-|:----:|:----:|:----:|
-| ![GLY](https://github.com/Kashitza/prac/blob/main/prac_4/ramachandran_3ffd_GLY.png) | ![ASP](https://github.com/Kashitza/prac/blob/main/prac_4/ramachandran_3ffd_ASP.png) | ![ASN](https://github.com/Kashitza/prac/blob/main/prac_4/ramachandran_3ffd_ASN.png) |
+| GLY | SER |
+|:----:|:----:|
+| ![GLY](https://github.com/Kashitza/prac/blob/main/prac_4/ramachandran_3ffd_GLY.png) | ![SER](https://github.com/Kashitza/prac/blob/main/prac_4/ramachandran_3ffd_SER.png) |
 
 Также в образовании α-спиралей участвуют **ARG**, **GLU**, **ASP**.  
 Однако из-за преобладания β-структур доля этих АК в спиралях меньше.
+
+| ARG | GLU | ASP |
+|:----:|:----:|:----:|
+| ![ARG](https://github.com/Kashitza/prac/blob/main/prac_4/ramachandran_1A3N_ARG.png) | ![GLU](https://github.com/Kashitza/prac/blob/main/prac_4/ramachandran_1A3N_GLU.png) | ![ASP](https://github.com/Kashitza/prac/blob/main/prac_4/ramachandran_1A3N_ASP.png) |
 
 ---
 
@@ -72,9 +82,26 @@
 Его распределение аминокислот близко к усреднённому по 1000 белкам:
 
 - **GLY** участвует почти во всех типах структур.  
-- **SER** активно участвует в α- и β-структурах.  
+- **SER** активно участвует в α- и β-структурах.
+
+| GLY | SER |
+|:----:|:----:|
+| ![GLY](https://github.com/Kashitza/prac/blob/main/prac_4/ramachandran_7ad1_GLY.png) | ![SER](https://github.com/Kashitza/prac/blob/main/prac_4/ramachandran_7ad1_SER.png) |
+
+
 - **TYR**, **VAL**, **ILE**, **LEU** — преимущественно в β-листах (гидрофобные остатки).  
-- **ASN**, **GLN**, **THR**, **LEU** — участвуют в α-спиралях, стабилизируя их водородными связями.  
+
+| ILE | LEU | VAL | TYR |
+|:----:|:----:|:----:|:----:|
+| ![ILE](https://github.com/Kashitza/prac/blob/main/prac_4/ramachandran_3ffd_ALA.png) | ![LEU](https://github.com/Kashitza/prac/blob/main/prac_4/ramachandran_3ffd_LEU.png) | ![VAL](https://github.com/Kashitza/prac/blob/main/prac_4/ramachandran_3ffd_VAL.png) | ![TYR](https://github.com/Kashitza/prac/blob/main/prac_4/ramachandran_3ffd_THR.png) |
+
+
+- **ASN**, **GLN**, **THR** — участвуют в α-спиралях, стабилизируя их водородными связями.  
+
+| ASN | GLN | THR |
+|:----:|:----:|:----:|:----:|
+| ![ILE](https://github.com/Kashitza/prac/blob/main/prac_4/ramachandran_3ffd_ALA.png) | ![LEU](https://github.com/Kashitza/prac/blob/main/prac_4/ramachandran_3ffd_LEU.png) | ![THR](https://github.com/Kashitza/prac/blob/main/prac_4/ramachandran_3ffd_VAL.png) |
+
 - **TRP**, **PHE**, **MET** — поддерживают β-архитектуру через ароматические взаимодействия.  
 - **LYS** и **ARG** — встречаются в обоих типах структур, стабилизируя конформации заряженными боковыми цепями.  
 
