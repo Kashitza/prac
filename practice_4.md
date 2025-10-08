@@ -8,13 +8,13 @@
 
 Для белка **1A3N**:\
 Это сам по себе не очень большой белок, в основном представленный α-спиралями.
-<img src="https://github.com/Kashitza/prac/blob/main/prac_4/1a3n_structure.png" style="height:64px;margin-right:32px"/>
-<img src="https://github.com/Kashitza/prac/blob/main/prac_4/1a3n.png" style="height:64px;margin-right:32px"/>
+<img src="https://github.com/Kashitza/prac/blob/main/prac_4/1a3n_structure.png" style="height:1080px;margin-right:720px"/>
+<img src="https://github.com/Kashitza/prac/blob/main/prac_4/1a3n.png" style="height:1080px;margin-right:720px"/>
 Наибольшее участие в их образовании принимают ALA, VAL, GLY, LYS. 
-<img src="https://github.com/Kashitza/prac/blob/main/prac_4/ramachandran_1A3N_ALA.png" style="height:16px;margin-right:16px"/>
-<img src="https://github.com/Kashitza/prac/blob/main/prac_4/ramachandran_1A3N_VAL.png" style="height:16px;margin-right:16px"/>
-<img src="https://github.com/Kashitza/prac/blob/main/prac_4/ramachandran_1A3N_GLY.png" style="height:16px;margin-right:16px"/>
-<img src="https://github.com/Kashitza/prac/blob/main/prac_4/ramachandran_1A3N_LYS.png" style="height:16px;margin-right:16px"/>  
+<img src="https://github.com/Kashitza/prac/blob/main/prac_4/ramachandran_1A3N_ALA.png" style="height:300px;margin-right:300px"/>
+<img src="https://github.com/Kashitza/prac/blob/main/prac_4/ramachandran_1A3N_VAL.png" style="height:300px;margin-right:300px"/>
+<img src="https://github.com/Kashitza/prac/blob/main/prac_4/ramachandran_1A3N_GLY.png" style="height:300px;margin-right:300px"/>
+<img src="https://github.com/Kashitza/prac/blob/main/prac_4/ramachandran_1A3N_LYS.png" style="height:300px;margin-right:300px"/>  
 Это либо АК с небольшими боковыми цепями, не сильно дестабилизирующими структуру спиралей, либо АК способные образовывать дополнительные водородные связи для стабилизации спиралей. В образовании небольшого числа β-складчатых структур участвуют ASP, SER, PHE, VAL.\
 
  Здесь заряды, гибкие цепи и ароматика помогают в стабилизации структуры. В целом большинство килост достаточно универсальны и способны ыучаствовать в образовании как спиралей, так и листов, но поскольку данный белок преимещественно состоит из спиралей, представленность АК в листах крайне ограничена 
