@@ -35,12 +35,13 @@
 | ![ALA](https://github.com/Kashitza/prac/blob/main/prac_4/ramachandran_1A3N_ALA.png) | ![VAL](https://github.com/Kashitza/prac/blob/main/prac_4/ramachandran_1A3N_VAL.png) | ![GLY](https://github.com/Kashitza/prac/blob/main/prac_4/ramachandran_1A3N_GLY.png) | ![LYS](https://github.com/Kashitza/prac/blob/main/prac_4/ramachandran_1A3N_LYS.png) |
 
 Это либо аминокислоты с небольшими боковыми цепями, не дестабилизирующими спирали, либо способные образовывать водородные связи.  
-В образовании β-структур участвуют **ASP**, **SER**, **PHE**, **VAL**.
+В образовании β-структур участвуют **ASP**, **SER**, **PHE**, **VAL**. Здесь заряды, гибкие цепи и ароматика помогают в стабилизации структуры.
 
 | ASP | SER | PHE |
 |:----:|:----:|:----:|
 | ![ASP](https://github.com/Kashitza/prac/blob/main/prac_4/ramachandran_1A3N_ASP.png) | ![SER](https://github.com/Kashitza/prac/blob/main/prac_4/ramachandran_1A3N_SER.png) | ![PHE](https://github.com/Kashitza/prac/blob/main/prac_4/ramachandran_1A3N_PHE.png) |
 
+В целом большинство килост достаточно универсальны и способны ыучаствовать в образовании как спиралей, так и листов, но поскольку данный белок преимещественно состоит из спиралей, представленность АК в листах крайне ограничена
 ---
 
 ## Белок **3FFD**
