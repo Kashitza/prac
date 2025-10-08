@@ -93,14 +93,14 @@
 
 | ILE | LEU | VAL | TYR |
 |:----:|:----:|:----:|:----:|
-| ![ILE](https://github.com/Kashitza/prac/blob/main/prac_4/ramachandran_3ffd_ALA.png) | ![LEU](https://github.com/Kashitza/prac/blob/main/prac_4/ramachandran_3ffd_LEU.png) | ![VAL](https://github.com/Kashitza/prac/blob/main/prac_4/ramachandran_3ffd_VAL.png) | ![TYR](https://github.com/Kashitza/prac/blob/main/prac_4/ramachandran_3ffd_THR.png) |
+| ![ILE](https://github.com/Kashitza/prac/blob/main/prac_4/ramachandran_7ad1_ALA.png) | ![LEU](https://github.com/Kashitza/prac/blob/main/prac_4/ramachandran_7ad1_LEU.png) | ![VAL](https://github.com/Kashitza/prac/blob/main/prac_4/ramachandran_7ad1_VAL.png) | ![TYR](https://github.com/Kashitza/prac/blob/main/prac_4/ramachandran_7ad1_TYR.png) |
 
 
 - **ASN**, **GLN**, **THR** — участвуют в α-спиралях, стабилизируя их водородными связями.  
 
 | ASN | GLN | THR |
 |:----:|:----:|:----:|:----:|
-| ![ILE](https://github.com/Kashitza/prac/blob/main/prac_4/ramachandran_3ffd_ALA.png) | ![LEU](https://github.com/Kashitza/prac/blob/main/prac_4/ramachandran_3ffd_LEU.png) | ![THR](https://github.com/Kashitza/prac/blob/main/prac_4/ramachandran_3ffd_VAL.png) |
+| ![ASN](https://github.com/Kashitza/prac/blob/main/prac_4/ramachandran_7ad1_ASN.png) | ![GLN](https://github.com/Kashitza/prac/blob/main/prac_4/ramachandran_7ad1_GLN.png) | ![THR](https://github.com/Kashitza/prac/blob/main/prac_4/ramachandran_7ad1_THR.png) |
 
 - **TRP**, **PHE**, **MET** — поддерживают β-архитектуру через ароматические взаимодействия.  
 - **LYS** и **ARG** — встречаются в обоих типах структур, стабилизируя конформации заряженными боковыми цепями.  
