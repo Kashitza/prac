@@ -68,7 +68,7 @@
 
 | ARG | GLU | ASP |
 |:----:|:----:|:----:|
-| ![ARG](https://github.com/Kashitza/prac/blob/main/prac_4/ramachandran_1A3N_ARG.png) | ![GLU](https://github.com/Kashitza/prac/blob/main/prac_4/ramachandran_1A3N_GLU.png) | ![ASP](https://github.com/Kashitza/prac/blob/main/prac_4/ramachandran_1A3N_ASP.png) |
+| ![ARG](https://github.com/Kashitza/prac/blob/main/prac_4/ramachandran_3ffd_ARG.png) | ![GLU](https://github.com/Kashitza/prac/blob/main/prac_4/ramachandran_3ffd_GLU.png) | ![ASP](https://github.com/Kashitza/prac/blob/main/prac_4/ramachandran_3ffd_ASP.png) |
 
 ---
 
