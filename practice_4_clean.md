@@ -99,7 +99,7 @@
 - **ASN**, **GLN**, **THR** — участвуют в α-спиралях, стабилизируя их водородными связями.  
 
 | ASN | GLN | THR |
-|:----:|:----:|:----:|:----:|
+|:----:|:----:|:----:|
 | ![ASN](https://github.com/Kashitza/prac/blob/main/prac_4/ramachandran_7ad1_ASN.png) | ![GLN](https://github.com/Kashitza/prac/blob/main/prac_4/ramachandran_7ad1_GLN.png) | ![THR](https://github.com/Kashitza/prac/blob/main/prac_4/ramachandran_7ad1_THR.png) |
 
 - **TRP**, **PHE**, **MET** — поддерживают β-архитектуру через ароматические взаимодействия.  
